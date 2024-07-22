@@ -27,7 +27,8 @@
         {{auth()->user()->name}}
         @endauth
       </span>
-      
+    
     </div>
   </div>
 </nav>
+
